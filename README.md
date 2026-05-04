@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Motivated+Computer+Science+Student;Front-End+Developer+%7C+Cloud+Enthusiast;Always+Learning+%26+Building)](https://git.io/typing-svg)
 # 💫 About Me:
 Motivated computer science student pursuing a BSc (Hons) Computing (8th semester) at Arden University and full-stack web development at Ideoversity.<br>Passionate about building responsive, user-friendly web interfaces with clean, maintainable code.  <br>Strong foundation in HTML, CSS, JavaScript, and modern frameworks.  <br>Eager to contribute through problem-solving, debugging, and continuous learning in collaborative environments.<br>
 
@@ -12,7 +13,19 @@ Motivated computer science student pursuing a BSc (Hons) Computing (8th semester
 ![](https://streak-stats.demolab.com/?user=ahmedabbas52233-a11y&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ahmedabbas52233-a11y&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 📚 Currently Learning
+- ⚛️ Advanced React (Hooks, Context, Redux)  
+- 🌐 Backend development with Node.js & Express  
+- 🗄️ Databases (MySQL, MongoDB)  
+- ☁️ Cloud Computing (Azure, AWS basics)  
+- 🔧 DevOps practices (CI/CD pipelines, Docker)  
+- 🤖 AI/ML fundamentals for modern applications  
+
+### 💼 Looking for Opportunities
+I am actively seeking **Web Development internships and graduate trainee roles** — open to both onsite positions in Lahore and remote opportunities worldwide.  
+With a strong foundation in **front-end development (HTML, CSS, JavaScript, React)** and growing expertise in **cloud computing and DevOps**, I am eager to contribute to dynamic teams, solve real-world problems, and continue learning in collaborative environments.  
+
+📧 Feel free to reach me at: **ahmedabbas52233@gmail.com**
+
 ---
 [![](https://komarev.com/ghpvc/?username=ahmedabbas52233-a11y&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
