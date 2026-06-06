@@ -1,27 +1,98 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Motivated+Computer+Science+Student;Front-End+Developer+%7C+Cloud+Enthusiast;Always+Learning+%26+Building)](https://git.io/typing-svg)
-# 💫 About Me:
-Motivated computer science student pursuing a BSc (Hons) Computing (8th semester) at Arden University and full-stack web development at Ideoversity.<br>Passionate about building responsive, user-friendly web interfaces with clean, maintainable code.  <br>Strong foundation in HTML, CSS, JavaScript, and modern frameworks.  <br>Eager to contribute through problem-solving, debugging, and continuous learning in collaborative environments.<br>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+Satellite+Data+Engineer;Cloud+%26+DevOps+Enthusiast;Building+RoleRadius+%26+TerraVision" alt="Typing SVG" />
+  </a>
+</div>
 
+<h3 align="center">Ahmad Abbas Hussain</h3>
+<p align="center">
+  <b>BSc Computing (Hons) · Arden University</b><br>
+  <b>Lahore, Pakistan · Open to Remote & Onsite</b>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ahmed-abbas-7000151a3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedabbas52233@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### 📚 Currently Learning
-- ⚛️ Advanced React (Hooks, Context, Redux)  
-- 🌐 Backend development with Node.js & Express  
-- 🗄️ Databases (MySQL, MongoDB)  
-- ☁️ Cloud Computing (Azure, AWS basics)  
-- 🔧 DevOps practices (CI/CD pipelines, Docker)  
-- 🤖 AI/ML fundamentals for modern applications  
-
-### 💼 Looking for Opportunities
-I am actively seeking **Web Development internships and graduate trainee roles** — open to both onsite positions in Lahore and remote opportunities worldwide.  
-With a strong foundation in **front-end development (HTML, CSS, JavaScript, React)** and growing expertise in **cloud computing and DevOps**, I am eager to contribute to dynamic teams, solve real-world problems, and continue learning in collaborative environments.  
-
-📧 Feel free to reach me at: **ahmedabbas52233@gmail.com**
+<p align="center">
+  <a href="https://github.com/ahmedabbas52233-a11y">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmad-abbas-h-7000151a3">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Ahmedabbas52233@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=ahmedabbas52233-a11y&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 What I'm Building
+
+> **RoleRadius** — A full-stack job portal with role-based JWT auth, PostgreSQL, Docker, and Azure deployment.  
+> **TerraVision** — Satellite crop yield intelligence using ST-Transformers, Sentinel-2 NDVI, and FastAPI.  
+> **Tally-Spend** — Personal finance analytics with anomaly detection and recurring payment tracking.
+
+I don't just follow tutorials. I debug migration conflicts at 2 AM, deploy containers to the cloud, and train models on real satellite data.
+
+---
+
+## 🛠️ Core Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Stack | What It Does |
+|---------|-------|--------------|
+| [**RoleRadius-Job-Portal**](https://github.com/ahmedabbas52233-a11y/RoleRadius-Job-Portal) | React · Django · PostgreSQL · Docker | Full-stack job portal with role-based auth, resume parsing, and recruiter dashboards |
+| [**TerraVision-AI**](https://github.com/ahmedabbas52233-a11y/TerraVision-AI) | Python · FastAPI · React · ST-Transformer | Satellite crop yield prediction using Sentinel-2 NDVI + ERA5 climate data with MC Dropout confidence |
+| [**Tally-Spend**](https://github.com/ahmedabbas52233-a11y/Tally-Spend) | FastAPI · React · Pandas | Bank statement analytics with spending pattern detection and anomaly alerts |
+| [**Documind-AI**](https://github.com/ahmedabbas52233-a11y/Documind-AI) | JavaScript · AI/ML | Document intelligence platform with summarization, sentiment analysis, and key insight extraction |
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedabbas52233-a11y&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabbas52233-a11y&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedabbas52233-a11y&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedabbas52233-a11y/ahmedabbas52233-a11y/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedabbas52233-a11y/ahmedabbas52233-a11y/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ahmedabbas52233-a11y/ahmedabbas52233-a11y/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+## 💼 Currently
+
+- 🔭 Shipping **RoleRadius** v2 with CI/CD pipelines
+- 🌱 Deepening **Azure DevOps** and **Kubernetes** fundamentals
+- 🤝 Open to **Web Development internships** and **graduate trainee roles** (Lahore onsite or remote worldwide)
+- 📫 **ahmedabbas52233@gmail.com**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedabbas52233-a11y&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
