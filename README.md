@@ -25,22 +25,6 @@
 
 ---
 
-## 📊 Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmedabbas52233-a11y&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedabbas52233-a11y&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedabbas52233-a11y&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <picture>
